@@ -1,6 +1,5 @@
-package Gallows;
+package Task1;
 
-import javax.swing.*;
 import java.util.*;
 
 public class Gallows {
